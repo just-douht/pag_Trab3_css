@@ -7,13 +7,13 @@
     padding: 0;
 }
 
+/*pne las listas en fila*/
 .menu{
     display:inline-block;
-
 }
 
 .menu li a{
-    padding: 10px 20px;
-    display: inline-block;
-    color:white;
+    padding:10px 20px;
+    display:inline-block;
+    color:#fff;
 }
