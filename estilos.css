@@ -8,7 +8,7 @@
 }
 
 /*pne las listas en fila*/
-.menu{
+.menu li{
     display:inline-block;
 }
 
