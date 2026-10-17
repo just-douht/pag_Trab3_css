@@ -1,7 +1,10 @@
+/*lista ordenada*/
 ul{
     list-style-type: square;
+    list-style-position: inside;
 }
 
+/*lista desordenada*/
 ol{
     list-style-type:upper-latin;
 }
