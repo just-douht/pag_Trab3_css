@@ -1,10 +1,8 @@
-/*lista ordenada*/
-ul{
-    list-style-type: square;
-    list-style-position: inside;
-}
-
-/*lista desordenada*/
-ol{
-    list-style-type:upper-latin;
+/*cambia color del fondo, quita las bolitas de aun lado y el espacio que queda al lado*/
+.menu{
+    width:100%;
+    background: black;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
